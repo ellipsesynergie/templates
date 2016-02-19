@@ -10,7 +10,7 @@ git update-server-info
 BASEPATH="/var/www/"
 
 #The application name
-APP=yoursite.com"
+APP="yoursite.com"
 
 #App path
 APPPATH=$BASEPATH$APP
